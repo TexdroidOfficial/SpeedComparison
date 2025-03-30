@@ -26,7 +26,11 @@ El script solicita al usuario que ingrese cuatro conjuntos de valores, dos de el
 
 ## Screenshot 📸
 
-![2025-03-30 12-53-52 start=1 length=15 fps=20](https://github.com/user-attachments/assets/0104bf58-ec7d-49cb-a3dc-e12797401479)
+![2025-03-30 12-53-52 start=1 length=15 fps=20](https://github.com/user-attachments/assets/c5958683-53e7-4edd-9cb4-522b1795106d)
+
+## Licencia 📄 
+
+Este proyecto se distribuye bajo la [Licencia MIT](LICENSE)
 
 ##
 Hecho con ❤️ por Texdroid
