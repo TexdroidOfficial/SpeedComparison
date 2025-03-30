@@ -30,7 +30,7 @@ El script solicita al usuario que ingrese cuatro conjuntos de valores, dos de el
 
 ## Licencia 📄 
 
-Este proyecto se distribuye bajo la [Licencia MIT](LICENSE)
+Este proyecto se distribuye bajo la [Licencia MIT](LICENSE).
 
 ##
 Hecho con ❤️ por Texdroid
