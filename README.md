@@ -25,7 +25,11 @@ The script prompts the user to enter four sets of values, two of them representi
 
 ## Screenshots 📸
 
-![2025-03-30 12-53-52 start=1 length=15 fps=20](https://github.com/user-attachments/assets/c4146616-1205-450d-959b-6fd7b25712d7)
+![2025-03-30 12-53-52 start=1 length=15 fps=20](https://github.com/user-attachments/assets/c5958683-53e7-4edd-9cb4-522b1795106d)
+
+## License 📄
+
+This project is licensed under the [MIT License](LICENSE)
 
 ##
 Made with ❤️ by Texdroid
