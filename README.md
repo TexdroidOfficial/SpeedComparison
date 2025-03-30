@@ -29,7 +29,7 @@ The script prompts the user to enter four sets of values, two of them representi
 
 ## License 📄
 
-This project is licensed under the [MIT License](LICENSE)
+This project is licensed under the [MIT License](LICENSE).
 
 ##
 Made with ❤️ by Texdroid
